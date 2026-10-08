@@ -101,22 +101,6 @@ Database management system project designed for managing placement and recruitme
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamankashyap2912&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamankashyap2912&theme=tokyonight&hide_border=true" height="170">
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamankashyap2912&theme=tokyo-night&hide_border=true">
-</p>
-
----
 
 ## 🎯 Current Focus
 
