@@ -8,14 +8,14 @@
   <b>AI/ML Developer • Deep Learning Enthusiast • Software Engineer</b>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/yamankashyap2912">
     <img src="https://img.shields.io/github/followers/yamankashyap2912?label=Followers&style=for-the-badge">
   </a>
   <a href="https://github.com/yamankashyap2912">
     <img src="https://img.shields.io/github/stars/yamankashyap2912?label=Stars&style=for-the-badge">
   </a>
-</p>
+</p> -->
 
 ---
 
